@@ -3,8 +3,7 @@
  ### [Text To Speech Web application](https://daa81ie6rht9c.cloudfront.net/)
 
 <h2>Overview</h2>
-A Text-to-Speech (TTS) converter that transforms text into natural, lifelike speech. This solution demonstrates how cloud technologies can transform textual data into lifelike speech, enhancing accessibility and user engagement.
-
+A Text-to-Speech (TTS) converter that effortlessly transforms written text into natural, lifelike speech. This solution showcases the power of cloud technologies in converting textual data into human-like audio, significantly enhancing accessibility and boosting user engagement.
 <h2>Architecture Highlights</h2>
 
 - **Amazon S3**: Hosts the static website and stores generated audio files for easy retrieval.
